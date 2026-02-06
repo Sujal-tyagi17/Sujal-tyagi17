@@ -46,20 +46,15 @@
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujal-tyagi17&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujal-tyagi17&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujal-tyagi17&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujal-tyagi17&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujal-tyagi17&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujal-tyagi17&theme=github_dark&utcOffset=5.5" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujal-tyagi17&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujal-tyagi17&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
