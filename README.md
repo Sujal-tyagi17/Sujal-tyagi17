@@ -1,86 +1,89 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+there!+👋;I'm+Sujal+Tyagi;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=700&size=40&pause=1200&color=00E5FF&center=true&vCenter=true&width=1100&lines=Hi+there+👾;I'm+Sujal+Tyagi;Computer+Science+Undergraduate+Student;Full+Stack+%7C+Web3+Developer" />
 </h1>
 
-<h3 align="center">
-  Computer Science Undergraduate Student • Full Stack Developer
-</h3>
-
 <p align="center">
-  🌱 Learning Blockchain & Web3
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=500&size=18&pause=1000&color=C77DFF&center=true&vCenter=true&width=1100&lines=Building+scalable+full-stack+applications;Exploring+Blockchain+%26+decentralized+systems" />
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7F00FF,100:FF0080&height=6" />
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science **Undergraduate Student**
-- 💻 Build **full stack web applications**
-- 🌐 Comfortable with **frontend & backend**
-- 🧠 Exploring **Blockchain & Web3**
-- 💬 Ask me about **React, Next.js, Node.js**
-- 🎯 Focused on strong fundamentals & real-world projects
+- 🎓 **Computer Science Undergraduate Student**
+- ⚙️ Full Stack Developer focused on **real-world, scalable systems**
+- 🧠 Strong interest in **Blockchain, Web3 & decentralized architectures**
+- 🌐 Solid foundations in **frontend & backend development**
+- 🎯 Focused on **clean code, performance, and fundamentals**
 
-<hr/>
+---
 
-## ⚒️ Skill Set
+## ⚒️ Technical Skill Set
 
 ### 💻 Programming Languages
-- Python  
-- C  
-- C++  
-- Java  
-- JavaScript  
-- TypeScript  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript" />
+</p>
 
 ### 🌐 Web & Frameworks
-- React.js  
-- Next.js  
-- Node.js  
-- HTML5  
-- CSS3  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css" />
+</p>
 
 ### 🗄️ Databases
-- MongoDB  
-- SQL (MySQL / PostgreSQL)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
 ### 🛠️ Developer Tools
-- Git  
-- GitHub  
-- Postman  
-- VS Code  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+</p>
 
-<hr/>
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=sujal-tyagi17&show_icons=true&theme=react&border_radius=10" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-tyagi17&theme=react&border_radius=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujal-tyagi17&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-tyagi17&layout=compact&theme=react&border_radius=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujal-tyagi17&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujal-tyagi17&theme=github_dark" />
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujal-tyagi17&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujal-tyagi17&theme=github_dark&utcOffset=5.5" />
+</p>
+
+---
 
 ## 🔗 Connect With Me
 
 <p align="center">
   <a href="mailto:tyagisujal007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-FF0055?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sujal-tyagi-700448202/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://sujaltyagi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </p>
 
-<hr/>
+---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=600&size=26&pause=1000&color=00FFAB&center=true&vCenter=true&width=1100&lines=Thanks+for+scrolling+👾;Build.+Ship.+Decentralize." />
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&center=true&vCenter=true&width=520&height=60&duration=4000&lines=Thanks+for+visiting!+✌️;Let's+connect+and+build+🚀" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
