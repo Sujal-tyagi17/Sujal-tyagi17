@@ -12,7 +12,7 @@
  
  🌱 I'm currently learning **Blockchain & Web3**
  
- 💬 Ask me about **Node.js, React, Next.js... or anything [here](https://github.com/YOUR_GITHUB_USERNAME/issues)**
+ 💬 Ask me about **Node.js, React, Next.js... or anything [here](https://github.com/sujal-tyagi17/issues)**
 
  ⚡ Fun fact **I built platforms for 6700+ users!**
  
@@ -22,10 +22,10 @@
   <a href="mailto:tyagisujal007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/sujal-tyagi-700448202/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="[YOUR_PORTFOLIO_URL](https://sujaltyagi.vercel.app/)" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
