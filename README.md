@@ -9,27 +9,7 @@
   <a href="mailto:tyagisujal007@gmail.com"><img src="https://img.shields.io/badge/Email-tyagisujal007%40gmail.com-3ee6b0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=13131f" alt="Email"></a>
 </p>
 
-Final-year CSE (Blockchain Technology) student at **VIT** and former **HCLTech** intern. I build in three lanes: **full-stack products** people use, **AI tools** that read data like an analyst, and **smart contracts** for real trust problems. Open to **SDE, data and Web3 roles**.
-
-## Featured work
-
-<p align="center">
-  <a href="https://carepulse-healthcare-appointment.vercel.app/"><img src="assets/card-carepulse.svg" alt="CarePulse: doctor-signed prescriptions anchored on-chain, verifiable by QR" width="49%"></a>
-  <a href="https://github.com/Sujal-tyagi17/DegreeVault"><img src="assets/card-degreevault.svg" alt="DegreeVault: soulbound degrees verified by QR" width="49%"></a>
-</p>
-<p align="center">
-  <a href="https://kanoonscan.vercel.app/"><img src="assets/card-kanoonscan.svg" alt="KanoonScan: AI legal contract analyzer" width="49%"></a>
-  <a href="https://prepmate-interview.vercel.app/"><img src="assets/card-prepmate.svg" alt="PrepMate: real-time AI interview practice" width="49%"></a>
-</p>
-<p align="center">
-  <a href="https://analyst-in-a-box-xyhk9grpaiknmnmqqtrege.streamlit.app/"><img src="assets/card-analyst.svg" alt="Analyst-in-a-Box: AI data analyst for any dataset" width="49%"></a>
-  <a href="https://esummit25-11vi.vercel.app/"><img src="assets/card-esummit.svg" alt="E-Summit'25 Portal: registration and live competition for 4,500+ users" width="49%"></a>
-</p>
-
-## Experience
-
-- **Intern · HCLTech** (Apr – Jul 2026): wrote and validated SQL on Oracle Database 19c, built Google Cloud AI agents with prompt engineering, and worked with BigQuery.
-- **Senior Technical Executive · E-Cell VIT** (Apr 2024 – May 2026): built and ran the full-stack platforms for two flagship events, handling 6,500+ registrations.
+I build in three lanes: **full-stack products** people use, **AI tools** that read data like an analyst, and **smart contracts** for real trust problems. Open to **SDE, data and Web3 roles**.
 
 ## Stack
 
