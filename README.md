@@ -1,84 +1,18 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=700&size=40&pause=1200&color=00E5FF&center=true&vCenter=true&width=1100&lines=Hi+there+👾;I'm+Sujal+Tyagi;Computer+Science+Undergraduate+Student;Full+Stack+%7C+Web3+Developer" />
-</h1>
+<a href="https://sujaltyagi.vercel.app">
+  <img src="assets/terminal.svg" alt="Terminal session: whoami, neofetch, ls ~/stack and contact links for Sujal Tyagi" width="100%">
+</a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=500&size=18&pause=1000&color=C77DFF&center=true&vCenter=true&width=1100&lines=Building+scalable+full-stack+applications;Exploring+Blockchain+%26+decentralized+systems" />
+  <a href="https://sujaltyagi.vercel.app"><img src="https://img.shields.io/badge/$_open-portfolio-50fa7b?style=for-the-badge&labelColor=282a36" alt="Portfolio"></a>
+  <a href="https://drive.google.com/file/d/1a6xVpcJ7BYc31Uz1-zBQrTyZQVZpjriV/view?usp=sharing"><img src="https://img.shields.io/badge/$_cat-resume.pdf-8be9fd?style=for-the-badge&labelColor=282a36" alt="Resume"></a>
+  <a href="https://www.linkedin.com/in/sujal-tyagi-700448202/"><img src="https://img.shields.io/badge/$_ssh-linkedin-bd93f9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282a36" alt="LinkedIn"></a>
+  <a href="mailto:tyagisujal007@gmail.com"><img src="https://img.shields.io/badge/$_mail-tyagisujal007@gmail.com-ff79c6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=282a36" alt="Email"></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7F00FF,100:FF0080&height=6" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujal-tyagi17&bg_color=1e1f29&color=f8f8f2&title_color=50fa7b&line=ff79c6&point=8be9fd&area=true&area_color=bd93f9&hide_border=true&radius=14&custom_title=%24%20git%20log%20--graph%20--last%3D30d" alt="Contribution graph for the last 30 days" width="100%">
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 **Computer Science Undergraduate Student**
-- ⚙️ Full Stack Developer focused on **real-world, scalable systems**
-- 🧠 Strong interest in **Blockchain, Web3 & decentralized architectures**
-- 🌐 Solid foundations in **frontend & backend development**
-- 🎯 Focused on **clean code, performance, and fundamentals**
-
----
-
-## ⚒️ Technical Skill Set
-
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript" />
-</p>
-
-### 🌐 Web & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css" />
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-### 🛠️ Developer Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujal-tyagi17&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujal-tyagi17&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujal-tyagi17&theme=tokyonight&utcOffset=5.5" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="mailto:tyagisujal007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF0055?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sujal-tyagi-700448202/">
-    <img src="https://img.shields.io/badge/LinkedIn-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://sujaltyagi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" />
-  </a>
-</p>
-
----
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=600&size=26&pause=1000&color=00FFAB&center=true&vCenter=true&width=1100&lines=Thanks+for+scrolling+👾;Build.+Ship.+Decentralize." />
-</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujal-tyagi17/Sujal-tyagi17/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujal-tyagi17/Sujal-tyagi17/output/snake-light.svg">
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Sujal-tyagi17/Sujal-tyagi17/output/snake-dark.svg" width="100%">
+</picture>
